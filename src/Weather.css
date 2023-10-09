@@ -5,6 +5,11 @@
   border-radius: 5px;
   max-width: 650px;
 }
+
+.Weather form {
+  margin-bottom: 22px;
+}
+
 .Weather h1 {
   color: #878787;
   display: block;
@@ -25,5 +30,22 @@
   font-size: 14px;
   line-height: 19px;
   list-style: none;
-  margin-left: 15px;
+  margin-left: 5px;
+}
+
+img {
+  margin-left: 5px;
+  margin: 20px;
+}
+
+.Weather .temperature {
+  font-weight: lighter;
+  line-height: 24px;
+  font-size: 50px;
+}
+
+.Weather .unit {
+  font-size: 12px;
+  position: relative;
+  top: -25px;
 }
