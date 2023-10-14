@@ -4,6 +4,7 @@
   padding: 16px 16px;
   border-radius: 5px;
   max-width: 650px;
+  background-color: rgb(219, 201, 191);
 }
 
 .Weather form {
@@ -31,11 +32,6 @@
   line-height: 19px;
   list-style: none;
   margin-left: 5px;
-}
-
-img {
-  margin-left: 2px;
-  margin: 20px;
 }
 
 .Weather .temperature {
