@@ -37,13 +37,17 @@
 .Weather .temperature {
   font-weight: lighter;
   line-height: 24px;
-  font-size: 50px;
+  font-size: 40px;
   margin-left: 10px;
+  position: relative;
 }
 
 .Weather .unit {
   font-size: 12px;
   position: relative;
   line-height: 1;
-  top: -25px;
+  top: -20px;
+}
+.button {
+  color: rgb(191, 8, 163);
 }
