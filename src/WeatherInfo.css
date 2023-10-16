@@ -1,0 +1,13 @@
+.WeatherIcon {
+  padding: 5px;
+}
+
+.WeatherTemperature {
+  color: rgb(29, 10, 178);
+  margin-top: 10px;
+}
+
+.Weatherdetails {
+  margin-right: -390px;
+  margin-top: -50px;
+}
